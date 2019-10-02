@@ -250,6 +250,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest19-f
 - Irem Sahin, Student - Konya,Turkey
 - Kerim Hakan Sırrı, Student - Konya, Turkey
 - Maria Michailidou, Automation Undergraduate -Greece
+- Densiflora, w00t3r, U.S.
 
 > (Add your name, profession and location right above this markdown comment)
 
