@@ -250,6 +250,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest19-f
 - Irem Sahin, Student - Konya,Turkey
 - Kerim Hakan Sırrı, Student - Konya, Turkey
 - Maria Michailidou, Automation Undergraduate -Greece
+- Toriq Ahmad Salam, NodeJS Backend Developer - Jepara, Indonesia
 
 > (Add your name, profession and location right above this markdown comment)
 
