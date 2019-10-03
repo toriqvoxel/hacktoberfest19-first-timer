@@ -251,6 +251,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest19-f
 - Irem Sahin, Student - Konya,Turkey
 - Kerim Hakan Sırrı, Student - Konya, Turkey
 - Maria Michailidou, Automation Undergraduate -Greece
+- Pedro Mendes, Compouter Engineer - Campinas, Brazil
 - Wasapon Benth Strife, Student - port vila, vanuatu
 - Matheus dos Santos Leite, Software Developer - Brazil
 - Kate Jody, Developer Web -Ha Noi, Vietnam
