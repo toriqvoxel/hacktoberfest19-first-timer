@@ -9,6 +9,7 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
 - Sign up anytime between October 1 and October 31.
 
 ## Rules
+
 To qualify for the official limited edition Hacktoberfest shirt, you must register and make four pull requests (PRs) between October 1-31 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate. This year, the first 50,000 participants who successfully complete the challenge will earn a T-shirt.
 
 Read more about [participation details](https://hacktoberfest.digitalocean.com/details).
@@ -251,6 +252,9 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest19-f
 - Kerim Hakan Sırrı, Student - Konya, Turkey
 - Maria Michailidou, Automation Undergraduate -Greece
 - Pedro Mendes, Compouter Engineer - Campinas, Brazil
+- Wasapon Benth Strife, Student - port vila, vanuatu
+- Matheus dos Santos Leite, Software Developer - Brazil
+- Kate Jody, Developer Web -Ha Noi, Vietnam
 
 > (Add your name, profession and location right above this markdown comment)
 
