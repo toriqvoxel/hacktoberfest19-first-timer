@@ -251,6 +251,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest19-f
 - Kerim Hakan Sırrı, Student - Konya, Turkey
 - Maria Michailidou, Automation Undergraduate -Greece
 - Matheus dos Santos Leite, Software Developer - Brazil
+- Kate Jody, Developer Web -Ha Noi, Vietnam
 
 > (Add your name, profession and location right above this markdown comment)
 
